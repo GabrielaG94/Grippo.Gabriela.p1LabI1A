@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1634732969 source:c:\users\pc\desktop\grippo.gabriela.p1labi1a\primer_parciallabo\color.c
+	<stdio.h>
+	<stdlib.h>
+	"color.h"
+
+1634730657 source:c:\users\pc\desktop\grippo.gabriela.p1labi1a\primer_parciallabo\fecha.c
+
+1634740894 source:c:\users\pc\desktop\grippo.gabriela.p1labi1a\primer_parciallabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"color.h"
+	"fecha.h"
+	"mascota.h"
+	"servicio.h"
+	"trabajo.h"
+	"tipo.h"
+
+1634741473 source:c:\users\pc\desktop\grippo.gabriela.p1labi1a\primer_parciallabo\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	"mascota.h"
+
+1634733419 source:c:\users\pc\desktop\grippo.gabriela.p1labi1a\primer_parciallabo\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	"servicio.h"
+
+1634739729 source:c:\users\pc\desktop\grippo.gabriela.p1labi1a\primer_parciallabo\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	"tipo.h"
+
+1634730887 source:c:\users\pc\desktop\grippo.gabriela.p1labi1a\primer_parciallabo\trabajo.c
+
+1634731298 c:\users\pc\desktop\grippo.gabriela.p1labi1a\primer_parciallabo\color.h
+
+1634731891 c:\users\pc\desktop\grippo.gabriela.p1labi1a\primer_parciallabo\fecha.h
+
+1634741411 c:\users\pc\desktop\grippo.gabriela.p1labi1a\primer_parciallabo\mascota.h
+	"color.h"
+	"fecha.h"
+	"servicio.h"
+	"trabajo.h"
+	"tipo.h"
+
+1634731896 c:\users\pc\desktop\grippo.gabriela.p1labi1a\primer_parciallabo\servicio.h
+
+1634741563 c:\users\pc\desktop\grippo.gabriela.p1labi1a\primer_parciallabo\trabajo.h
+	"fecha.h"
+	<stdio.h>
+	<stdlib.h>
+	"color.h"
+	"fecha.h"
+	"tipo.h"
+
+1634731004 c:\users\pc\desktop\grippo.gabriela.p1labi1a\primer_parciallabo\tipo.h
+
+1634737142 source:c:\users\pc\desktop\grippo.gabriela.p1labi1a\primer_parciallabo\datawherehouse_1a.c
+	"datawherehouse_1a.h"
+	<string.h>
+
+1634735419 c:\users\pc\desktop\grippo.gabriela.p1labi1a\primer_parciallabo\datawherehouse_1a.h
+	"mascota.h"
+
